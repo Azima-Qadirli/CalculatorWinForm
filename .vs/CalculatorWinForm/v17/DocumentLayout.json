@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\calculatorwinform\\calculatorwinform\\currency.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|solutionrelative:calculatorwinform\\currency.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\calculatorwinform\\calculatorwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|solutionrelative:calculatorwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\calculatorwinform\\calculatorwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|solutionrelative:calculatorwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\calculatorwinform\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|solutionrelative:calculatorwinform\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\calculatorwinform\\date_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|solutionrelative:calculatorwinform\\date_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\calculatorwinform\\date_operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|solutionrelative:calculatorwinform\\date_operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\calculatorwinform\\scientific calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|solutionrelative:calculatorwinform\\scientific calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\calculatorwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|solutionrelative:calculatorwinform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\calculatorwinform\\scientific calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4890FE6-E692-4744-AF49-C395CE34747A}|CalculatorWinForm\\CalculatorWinForm.csproj|solutionrelative:calculatorwinform\\scientific calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Currency.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Currency.Designer.cs",
+              "RelativeDocumentMoniker": "CalculatorWinForm\\Currency.Designer.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Currency.Designer.cs",
+              "RelativeToolTip": "CalculatorWinForm\\Currency.Designer.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:19:20.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorWinForm\\Program.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Program.cs",
+              "RelativeToolTip": "CalculatorWinForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:16:18.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculatorWinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Form1.cs",
+              "RelativeToolTip": "CalculatorWinForm\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:02:41.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scientific Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Scientific Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorWinForm\\Scientific Calculator.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Scientific Calculator.cs",
+              "RelativeToolTip": "CalculatorWinForm\\Scientific Calculator.cs",
+              "ViewState": "AgIAAP4BAAAAAAAAAAAQwAwCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:02:34.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculatorWinForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Form1.cs [Design]",
+              "RelativeToolTip": "CalculatorWinForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T11:59:56.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Scientific Calculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Scientific Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorWinForm\\Scientific Calculator.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Scientific Calculator.cs [Design]",
+              "RelativeToolTip": "CalculatorWinForm\\Scientific Calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T11:59:43.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Date_operation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Date_operation.cs",
+              "RelativeDocumentMoniker": "CalculatorWinForm\\Date_operation.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Date_operation.cs [Design]",
+              "RelativeToolTip": "CalculatorWinForm\\Date_operation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T11:59:53.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Date_calculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Date_calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorWinForm\\Date_calculator.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Date_calculator.cs [Design]",
+              "RelativeToolTip": "CalculatorWinForm\\Date_calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T11:59:51.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Currency.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Currency.cs",
+              "RelativeDocumentMoniker": "CalculatorWinForm\\Currency.cs",
+              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\CalculatorWinForm\\CalculatorWinForm\\Currency.cs [Design]",
+              "RelativeToolTip": "CalculatorWinForm\\Currency.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T11:57:39.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

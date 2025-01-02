@@ -1,0 +1,16 @@
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\bin\Debug\CalculatorWinForm.exe.config
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\bin\Debug\CalculatorWinForm.exe
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\bin\Debug\CalculatorWinForm.pdb
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.csproj.AssemblyReference.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.Currency.resources
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.Date_calculator.resources
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.Date_operation.resources
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.Form1.resources
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.Form2.resources
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.HistoryForm.resources
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.Properties.Resources.resources
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.Scientific_Calculator.resources
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.csproj.GenerateResource.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.exe
+C:\Users\test\OneDrive\Desktop\c# Jet\CalculatorWinForm\CalculatorWinForm\obj\Debug\CalculatorWinForm.pdb
